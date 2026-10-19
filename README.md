@@ -1,3 +1,1 @@
-# INGESTAO_DE_DADOS-efg
-
 Agente de demonstração para envio de eventos de firewall ao Elasticsearch.
